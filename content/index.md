@@ -2,5 +2,10 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Second Chance Fashion
+
+[[Second Chance Fashion - Concept Shoot]]
+
+[[Second Chance Fashion - Mood Board]]
+
+[[The Pajama Trend]]
