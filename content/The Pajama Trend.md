@@ -1,9 +1,12 @@
 ---
-created date: 2024-10-17 12:54
-internal link:
+tags:
+  - fashion
+  - fashion-trend
+created_date: 2024-10-17 12:54
+internal_link:
   - "[[Fashion]]"
 ---
-Link: [journal.hr](https://www.journal.hr/moda/trendovi/spavacice-haljine-modni-trend/)
+**external_link**:: [journal.hr](https://www.journal.hr/moda/trendovi/spavacice-haljine-modni-trend/)
 
 The **pajama trend** refers to a fashion movement where sleepwear-inspired clothing, particularly pajamas, is styled and worn as everyday or streetwear.
 

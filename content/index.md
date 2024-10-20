@@ -8,4 +8,10 @@ title: Welcome to Quartz
 
 [[Second Chance Fashion - Mood Board]]
 
+[[Second Chance Fashion - Wardrobe & Styling Reference]]
+
+[[Second Chance Fashion - Pose & Composition Reference]]
+
 [[The Pajama Trend]]
+
+[[Fast Fashion]]
